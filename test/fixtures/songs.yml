@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  file: MyString
+  artist: MyString
+  category: MyString
+  length: 9.99
+
+two:
+  name: MyString
+  file: MyString
+  artist: MyString
+  category: MyString
+  length: 9.99
